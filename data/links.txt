@@ -1,0 +1,10 @@
+# Datasets
+GoEmotions: https://github.com/google-research/google-research/tree/master/goemotions
+TEC: http://saifmohammad.com/WebPages/ResearchInterests.html#PoliticalTweets
+CBET: https://github.com/chenyangh/CBET-dataset
+
+# Emotions-Lexcions
+EmoLex: http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+EmoSenticNet: https://www.gelbukh.com/emosenticnet/
+NRC-VAD: http://saifmohammad.com/WebPages/nrc-vad.html
+NRC-EIL: http://www.saifmohammad.com/WebPages/AffectIntensity.htm
